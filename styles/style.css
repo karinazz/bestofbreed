@@ -1,1 +1,104 @@
+body{
+    \\background-image: url(Grafiki/tlo.jpg);
+    \\background-repeat: no-repeat;
+    \\left: auto;
+    
+    
+    
+   
+}
+
+
+h1{
+    margin: 450px 700px -200px;
+    position:absolute;
+    top: -50px;
+    left: 750px;
+    color: #9999CC;
+    font-size: 30px;
+    
+}
+.powieksz:hover{
+    font-size: 200%;
+}
+
+h2{
+    margin: 580px 900px -200px;
+    position: absolute;
+    top: -150px;
+    left: -500px;
+    color: #9999CC;
+    font-size: 30px;
+    
+}
+
+p2{
+    margin: 400px 900px 100px;
+    position:absolute;
+    top: 100px;
+    left: 300px;
+    
+}
+
+p3{
+    margin: 400px 900px 100px;
+    position: absolute;
+    top: 100px;
+    left: -577px;
+    }
+
+p4{
+    position: static;
+    margin-left: 400px;
+}
+
+
+#menu{
+    margin: -100px 100px 0px 70px;
+}
+
+
+ul, ul li {
+	display: block;
+	list-style: none;
+	margin: 30px 0px 100px 120px;
+    float:left;
+	padding: 0;
+}
+
+ul {
+	position: absolute;
+}
+
+li a {
+display: block;
+float: center;
+text-align: center;
+font-size: 1.2em;
+width: 230px;
+text-decoration: none;
+color: black;
+background-color: white;
+padding: 10px 15px;
+margin: 100px 1px 1px 0px;
+border: 1px solid navy;
+border-radius: 3px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+box-shadow: 0px 2px 3px gray;
+-moz-box-shadow: 0px 2px 3px gray;
+-webkit-box-shadow: 0px 2px 3px gray;
+}
+
+li a:hover {
+color: blue;
+background: lightgray;
+border: 1px solid black;
+}
+----------
+
+#calosc{
+    padding-left: 555500px;
+}
+
 
